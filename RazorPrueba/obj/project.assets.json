@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nuevousuario/Documents/pruebatecnica/test2/prueba/RazorPrueba/RazorPrueba.csproj",
+      "projectUniqueName": "/Users/nuevousuario/Documents/test/RazorPrueba/RazorPrueba.csproj",
       "projectName": "RazorPrueba",
-      "projectPath": "/Users/nuevousuario/Documents/pruebatecnica/test2/prueba/RazorPrueba/RazorPrueba.csproj",
+      "projectPath": "/Users/nuevousuario/Documents/test/RazorPrueba/RazorPrueba.csproj",
       "packagesPath": "/Users/nuevousuario/.nuget/packages/",
-      "outputPath": "/Users/nuevousuario/Documents/pruebatecnica/test2/prueba/RazorPrueba/obj/",
+      "outputPath": "/Users/nuevousuario/Documents/test/RazorPrueba/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nuevousuario/.nuget/NuGet/NuGet.Config"
